@@ -1,0 +1,13 @@
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\bin\Debug\netcoreapp3.1\PaymentTaxes.exe
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\bin\Debug\netcoreapp3.1\PaymentTaxes.deps.json
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\bin\Debug\netcoreapp3.1\PaymentTaxes.runtimeconfig.json
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\bin\Debug\netcoreapp3.1\PaymentTaxes.runtimeconfig.dev.json
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\bin\Debug\netcoreapp3.1\PaymentTaxes.dll
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\bin\Debug\netcoreapp3.1\PaymentTaxes.pdb
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.csprojAssemblyReference.cache
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.AssemblyInfoInputs.cache
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.AssemblyInfo.cs
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.dll
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.pdb
+C:\Users\guilherme.albanez\source\repos\PaymentTaxes\PaymentTaxes\obj\Debug\netcoreapp3.1\PaymentTaxes.genruntimeconfig.cache
