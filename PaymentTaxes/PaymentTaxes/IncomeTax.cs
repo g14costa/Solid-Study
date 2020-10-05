@@ -4,22 +4,24 @@ using System.Text;
 
 namespace PaymentTaxes
 {
-    public class IncomeTax
+    public class IncomeTax : ITax
     {
-        public double TaxValue { get; set; }
-
-        public IncomeTax(float salary)
+        public decimal Discount(decimal value)
         {
-            if (salary <= 1903.98)
-                TaxValue = 0;
-            else if (salary > 1903.98 && salary <= 2826.65)
-                TaxValue = salary / 100 * 7.5;
-            else if (salary > 2826.65 && salary <= 3751.05)
-                TaxValue = salary / 100 * 15;
-            else if (salary > 3751.05 && salary <= 4664.68)
-                TaxValue = salary / 100 * 22.5;
+            decimal taxValue;
+
+            if (value <= 1903.98m)
+                taxValue = 0;
+            else if (value > 1903.98m && value <= 2826.65m)
+                taxValue = value / 100 * 7.5m;
+            else if (value > 2826.65m && value <= 3751.05m)
+                taxValue = value / 100 * 15;
+            else if (value > 3751.05m && value <= 4664.68m)
+                taxValue = value / 100 * 22.5m;
             else
-                TaxValue = salary / 100 * 27.5;
+                taxValue = value / 100 * 27.5m;
+
+            return taxValue;
         }
     }
 }
