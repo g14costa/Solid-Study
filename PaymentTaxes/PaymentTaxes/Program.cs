@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PaymentTaxes
 {
@@ -21,8 +22,8 @@ namespace PaymentTaxes
                         break;
                     }
 
-                    float salaryBaseValue;
-                    float.TryParse(userInput, out salaryBaseValue);
+                    decimal salaryBaseValue;
+                    decimal.TryParse(userInput, out salaryBaseValue);
 
                     if (salaryBaseValue == 0)
                     {
@@ -30,13 +31,15 @@ namespace PaymentTaxes
                     }
                     else
                     {
-                        Salary salary = new Salary();
-                        INSS inss = new INSS(salaryBaseValue);
-                        IncomeTax incomeTax = new IncomeTax(salaryBaseValue);
+                        Salary salary = new Salary(salaryBaseValue);
+                        List<ITax> taxes = new List<ITax>();
+                        taxes.Add(new INSS());
+                        taxes.Add(new IncomeTax());
+                        taxes.Add(new MedicalAssistant());
 
-                        salary.TotalValue = salaryBaseValue - inss.TaxValue - incomeTax.TaxValue;
+                        salary.Discount(taxes);
 
-                        Console.WriteLine("O valor do salário com os descontos é: " + salary.TotalValue);
+                        Console.WriteLine("O valor do salário com os descontos é: " + salary.SalaryValue);
                     }
 
                 } while (true);

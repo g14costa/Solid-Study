@@ -1,0 +1,13 @@
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\bin\Debug\netcoreapp3.1\MultipleLogs.exe
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\bin\Debug\netcoreapp3.1\MultipleLogs.deps.json
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\bin\Debug\netcoreapp3.1\MultipleLogs.runtimeconfig.json
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\bin\Debug\netcoreapp3.1\MultipleLogs.runtimeconfig.dev.json
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\bin\Debug\netcoreapp3.1\MultipleLogs.dll
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\bin\Debug\netcoreapp3.1\MultipleLogs.pdb
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.csprojAssemblyReference.cache
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.AssemblyInfoInputs.cache
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.AssemblyInfo.cs
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.dll
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.pdb
+C:\Users\guilherme.albanez\source\repos\MultipleLogs\MultipleLogs\obj\Debug\netcoreapp3.1\MultipleLogs.genruntimeconfig.cache
