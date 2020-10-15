@@ -9,6 +9,10 @@ namespace MultipleLogs
         public void WriteLog(string message, string logType)
         {
             Console.WriteLine(logType + ": This is the Database Log: " + message);
+            Console.WriteLine(logType + ": This is the Database Log Gabriel: " + message);
+            Console.WriteLine(logType + ": This is the Database Log: Gabriel" + message);
+            Console.WriteLine(logType + ": This is the Database Log: Gabriel" + message);
+
         }
     }
 }
