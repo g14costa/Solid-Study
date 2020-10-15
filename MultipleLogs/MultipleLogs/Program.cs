@@ -13,7 +13,7 @@ namespace MultipleLogs
             }
             catch (Exception e)
             {
-                new LogManager().WriteLog(e.Message, LogType.Error);
+                LogManager.LogManagerInstance.WriteLog(e.Message, LogType.Error);
             }
         }
     }
