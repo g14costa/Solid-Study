@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repositorios\\Mentoria\\Primeiro Ciclo\\Solid-Study\\MultipleLogs\\MultipleLogs\\MultipleLogs.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.albanez\\source\\repos\\MultipleLogs\\MultipleLogs\\MultipleLogs.csproj",
       "projectName": "MultipleLogs",
-      "projectPath": "C:\\Repositorios\\Mentoria\\Primeiro Ciclo\\Solid-Study\\MultipleLogs\\MultipleLogs\\MultipleLogs.csproj",
+      "projectPath": "C:\\Users\\guilherme.albanez\\source\\repos\\MultipleLogs\\MultipleLogs\\MultipleLogs.csproj",
       "packagesPath": "C:\\Users\\guilherme.albanez\\.nuget\\packages\\",
-      "outputPath": "C:\\Repositorios\\Mentoria\\Primeiro Ciclo\\Solid-Study\\MultipleLogs\\MultipleLogs\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.albanez\\source\\repos\\MultipleLogs\\MultipleLogs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
